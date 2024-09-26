@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  A simple Gold tracking <i>desktop App</i> which uses <a href="https://goldprice.org/" target="_blank">goldprice.org</a> APIs, written in <b>Go</b> and <b>Fyne</b> using embedded <b>SQLite</b> for keeping all the date in users machines.
+  A simple Gold tracking <i>desktop App</i> which uses <a href="https://goldprice.org/" target="_blank">goldprice.org</a> APIs, written in <b>Go</b> and <b>Fyne</b> using embedded <b>SQLite</b> for keeping all the data related to Gold purchases in users machines.
 </p>
 
 ## ▶️ Running and Installing
