@@ -30,7 +30,7 @@ You can find configs for building the app in `Makefile`.
 
 <hr>
 
-### In this repo you can find various solutions and use them in your project such as
+### In this repo you can find various solutions and use them in your projects such as
 
 - How to connect embedded **SQLite** DB to your Go application and do basic CRUD operations
 - How to write **SQL queries** directly in your Go application
